@@ -1,6 +1,6 @@
 # NIST AI 800-3 Code Supplement
 
-This repository contains data and code to reproduce results from _[Expanding the AI Evaluation Toolbox with Statistical Models]()_. See the paper for more details on methods and motivation. Existing packages available to execute similar analyses include [`HiBayes`](https://ukgovernmentbeis.github.io/hibayes/) and [`vitals`](https://vitals.tidyverse.org).
+This repository contains data and code to reproduce results from _[Expanding the AI Evaluation Toolbox with Statistical Models](https://openreview.net/pdf?id=THqrfMr0r1)_. See the paper for more details on methods and motivation. Existing packages available to execute similar analyses include [`HiBayes`](https://ukgovernmentbeis.github.io/hibayes/) and [`vitals`](https://vitals.tidyverse.org).
 
 Paper figures and tables can be reproduced by running:
 
